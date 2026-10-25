@@ -1,0 +1,9 @@
+reaction,rate_info,parsed_reactants,parsed_products,candidate_names,chosen_name,is_matched,nu_O3
+O3 = 2 OH,,['O3'],['OH'],"['R_ORLANDO_USR_O3_HV_H2O', 'R_ORLANDO_O3']",R_ORLANDO_USR_O3_HV_H2O,True,-1.0
+OH + O3 = HO2,T1 MOZART,"['OH', 'O3']",['HO2'],['R_ORLANDO_OH_O3'],R_ORLANDO_OH_O3,True,-1.0
+HO2 + O3 = OH,T1 MOZART,"['HO2', 'O3']",['OH'],['R_ORLANDO_HO2_O3'],R_ORLANDO_HO2_O3,True,-1.0
+NO + O3 = NO2,T1 MOZART,"['NO', 'O3']",['NO2'],['R_ORLANDO_NO_O3'],R_ORLANDO_NO_O3,True,-1.0
+NO2 + O3 = NO3,T1 MOZART,"['NO2', 'O3']",['NO3'],['R_ORLANDO_NO2_O3'],R_ORLANDO_NO2_O3,True,-1.0
+C3H6 + O3 = 0.5 HCHO + 0.5 ALDS + 0.28 CH3O2 + 0.28 HO2 + 0.36 OH,,"['C3H6', 'O3']","['HCHO', 'ALDS', 'CH3O2', 'HO2', 'OH']",['R_ORLANDO_C3H6_O3'],R_ORLANDO_C3H6_O3,True,-1.0
+ISOP + O3 = 0.6 MVKMACR + 0.27 OH + 0.06 HO2 + 0.6,"T1 MOZART, note 3 HCHO + 0.3 CO + 0.1 O3 + 0.2 RCO3","['ISOP', 'O3']","['MVKMACR', 'OH', 'HO2', '0.6']",['R_ORLANDO_ISOP_O3'],R_ORLANDO_ISOP_O3,True,-0.9
+MVKMACR + O3 = 0.75 HCHO + 0.895 ALDS + 0.148 OH + 0.2 O3 + 0.168 HO2 + 0.125 CO,,"['MVKMACR', 'O3']","['HCHO', 'ALDS', 'OH', 'O3', 'HO2', 'CO']","['R_ORLANDO_MVKMACR_O3', 'R_ORLANDO_MVKMACR', 'R_ORLANDO_HV_MVKMACR']",R_ORLANDO_MVKMACR_O3,True,-0.8

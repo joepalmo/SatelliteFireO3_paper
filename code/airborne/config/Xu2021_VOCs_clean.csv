@@ -1,0 +1,82 @@
+VOC,Class,A,n,B,gamma,alpha,note,Instrument
+HCHO,OVOCs,6.84E-12,0,-72.17,1.5,0,,ISAF
+CH4,Alkane/Alkene,1.85E-20,2.82,984,2,0.0005,,DACOM
+CHOCHO,OVOCs,1.10E-11,0,0,2,0,,ACES
+CO,CO,1.50E-13,0,0,1,0,,DACOM
+Ethane,Alkane/Alkene,1.49E-17,2,499,2,0.019,,CAMS
+Phenol,Oxy-aromatics,4.70E-13,0,-1220,1.11,0.01,,CIMS
+c2Butene,Alkane/Alkene,1.10E-11,0,-487,2,0.12,,iWAS
+c2Pentene,Alkane/Alkene,6.50E-11,0,0,2,0.15,,iWAS
+CycHexane,Alkane/Alkene,3.26E-17,2,-262,2.85,0.17,,iWAS
+Ethene,Alkane/Alkene,1.96E-12,0,-438,2,0.013,,iWAS
+iButane,Alkane/Alkene,1.17E-17,2,-213,2.85,0.255,,iWAS
+iButene,Alkane/Alkene,9.47E-12,0,-504,2,0.09,,iWAS
+iPentane,Alkane/Alkene,3.60E-12,0,0,2.85,0.35,,iWAS
+isoprene,Alkane/Alkene,2.70E-11,0,-390,2,0.13,,iWAS
+MeCycHexane,Alkane/Alkene,9.64E-12,0,0,2.85,0.17,,iWAS
+MeCycPentane,Alkane/Alkene,2.73E-17,2,-214,2.85,0.1,,iWAS
+nButane,Alkane/Alkene,1.81E-17,2,-114,2.85,0.077,,iWAS
+nDecane,Alkane/Alkene,3.17E-17,2,-406,2.85,0.3,,iWAS
+nHexane,Alkane/Alkene,2.54E-14,1,112,2.85,0.141,,iWAS
+nNonane,Alkane/Alkene,2.53E-17,2,-436,2.85,0.05,,iWAS
+nOctane,Alkane/Alkene,2.72E-17,2,-361,2.85,0.226,,iWAS
+nPentane,Alkane/Alkene,2.52E-17,2,-158,2.85,0.105,,iWAS
+Propane,Alkane/Alkene,1.65E-17,2,87,2,0.036,,iWAS
+Propene,Alkane/Alkene,4.85E-12,0,-504,2,0.041,,iWAS
+t13Pentadiene,Alkane/Alkene,1.01E-10,0,0,2,0.03,,iWAS
+t2Butene,Alkane/Alkene,1.01E-11,0,-550,2,0.12,,iWAS
+t2Pentene,Alkane/Alkene,6.70E-11,0,0,2,0.15,,iWAS
+x1Butene,Alkane/Alkene,6.55E-12,0,-467,2,0.12,,iWAS
+x1Pentene,Alkane/Alkene,3.14E-11,0,0,2,0.15,,iWAS
+x224TriMePentane,Alkane/Alkene,2.35E-17,2,-140,2.85,0.14,,iWAS
+x22DiMeButane,Alkane/Alkene,3.37E-11,0,809,2.85,0.2,,iWAS
+x24DiMePentane,Alkane/Alkene,4.77E-12,0,0,2.85,0.1,,iWAS
+x2Me1Butene,Alkane/Alkene,6.10E-11,0,0,2,0.16,,iWAS
+x2MePentane,Alkane/Alkene,5.20E-12,0,0,2.85,0.14,,iWAS
+x3Me1Butene,Alkane/Alkene,5.32E-12,0,-533,2,0.03,,iWAS
+x3MePentane,Alkane/Alkene,5.20E-12,0,0,2.85,0.14,,iWAS
+Acetone,OVOCs,9.84E-13,0,485.52,2,0,,PTR
+Acrolein,OVOCs,6.55E-12,0,-333.17,2,0,,PTR
+Anisol,OVOCs,2.80E-11,0,0,1.13,0.01,50% of C7H8O,PTR
+aPinene,Alkane/Alkene,1.21E-11,0,-436,2,0.03,100% of C10H16,PTR
+Benzaldehyde,Oxy-aromatics,1.30E-11,0,0,2,0.06,,PTR
+Benzene,Red-aromatics,2.33E-12,0,193,1.5,0.01,,PTR
+BenzFuran,Furans,3.72E-11,0,0,1.5,0.05,,PTR
+Butanal,OVOCs,5.71E-12,0,-411.35,2,0.06,1% of C4H8O,PTR
+C2H5OH,OVOCs,5.31E-12,0,180.42,1,0,,PTR
+Catechol,Oxy-aromatics,1.00E-10,0,0,1,0.01,50% of C6H6O2,PTR
+CH3CHO,OVOCs,6.87E-12,0,-256.19,2,0,,PTR
+CH3COOH,OVOCs,2.44E-14,0,-1027.13,2,0,67% of C2H4O2,PTR
+CH3OH,OVOCs,6.71E-12,0,600.19,1,0,,PTR
+Cresols,Oxy-aromatics,7.50E-11,0,0,1.13,0.01,,PTR
+Crotonaldehyde,OVOCs,5.77E-12,0,-532.84,2,0.06,33% of C4H6O,PTR
+EthylBenzene,Red-aromatics,7.51E-12,0,0,1.6,0.01,10% of C8H10,PTR
+EthylFormate,OVOCs,5.66E-13,0,-133.51,2,0,14% of C3H6O2,PTR
+Furan,Furans,1.32E-11,0,-334,1.24,0.05,,PTR
+Furfural,Furans,3.50E-11,0,0,1,0.05,,PTR
+Glycoaldehyde,OVOCs,8.00E-12,0,0,2,0,33% of C2H4O2,PTR
+Guaiacol,Oxy-aromatics,7.44E-11,0,0,1.5,0.01,,PTR
+HCOOH,OVOCs,2.91E-13,0,-102.24,1,0,,PTR
+Hydroxyacetone,OVOCs,1.88E-11,0,544.86,2,0,50% of C3H6O2,PTR
+HydroxyBenzoquinone,Oxy-aromatics,4.60E-12,0,0,1.5,0.01,C6H4O3,PTR
+isobutyraldehyde,OVOCs,6.79E-12,0,-393.31,2,0.06,14% of C4H8O,PTR
+Methacrolein,OVOCs,8.00E-12,0,-380,2,0.06,19% of C4H6O,PTR
+MaleicAnhydride,Furans,1.45E-12,0,0,1.24,0.05,,PTR
+MEK,OVOCs,1.20E-12,0,0,2,0,85% of C4H8O,PTR
+MethylAcetate,OVOCs,8.54E-19,2,-455,2,0,35% of C3H6O2,PTR
+MVK,OVOCs,2.60E-12,0,-610,2,0.03,48% of C4H6O,PTR
+Naphthalene,Red-aromatics,1.05E-12,0,-902.09,2,0.01,,PTR
+Styrene,Red-aromatics,4.30E-11,0,0,2,0.01,,PTR
+Syringol,Oxy-aromatics,1.00E-10,0,0,1.5,0.01,,PTR
+Toluene,Red-aromatics,2.09E-12,0,-322.35,1.58,0.01,,PTR
+oXylene,Red-aromatics,1.47E-11,0,0,1.6,0.01,23% of C8H10,PTR
+mXylene,Red-aromatics,1.66E-11,0,-115.47,1.6,0.01,34% of C8H10,PTR
+pXylene,Red-aromatics,1.52E-11,0,0,1.6,0.01,34% of C8H10,PTR
+Trimethylbenzene,Red-aromatics,1.32E-11,0,-449.84,1.67,0.01,C9H12,PTR
+x23Butanedione,Alkane/Alkene,2.41E-13,0,0,2,0.05,,PTR
+x25Dimethylfuran,Furans,1.32E-10,0,0,1.73,0.05,DimeFurans,PTR
+x2Furanone,Furans,4.10E-12,0,0,2,0.05,,PTR
+x2MeFuran,Furans,6.18E-11,0,0,1.65,0.05,85% of C5H6O,PTR
+x3MeFuran,Furans,3.20E-11,0,-310.32,1.65,0.05,15% of C5H6O,PTR
+x2Methylphenol,Oxy-aromatics,4.00E-11,0,0,1.13,0.01,50% of C7H8O,PTR
+x5MeFurfural,Furans,5.10E-12,0,0,2,0.05,50% of C6H6O2,PTR

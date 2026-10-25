@@ -1,0 +1,4 @@
+reaction,rate_info,parsed_reactants,parsed_products,candidate_names,chosen_name,is_matched,nu_O3
+NO2 + hv = NO + O3,FTUV,"['NO2', 'hv']","['NO', 'O3']",['R_ORLANDO_HV_NO2'],R_ORLANDO_HV_NO2,True,1.0
+NO3 + hv = 0.11 NO + 0.89 NO2 + 0.89 O3,FTUV,"['NO3', 'hv']","['NO', 'NO2', 'O3']",['R_ORLANDO_HV_NO3'],R_ORLANDO_HV_NO3,True,0.89
+RCO3 + HO2 = 0.25 O3,T1 MOZART,"['RCO3', 'HO2']",['O3'],['R_ORLANDO_RCO3_HO2'],R_ORLANDO_RCO3_HO2,True,0.25

@@ -1,0 +1,29 @@
+{
+  "feature_columns": [
+    "smoke_age",
+    "normalized_distance_to_center",
+    "CH2O",
+    "NO2"
+  ],
+  "target_column": "pO3",
+  "sample_weight": {
+    "threshold": 50.0,
+    "weight_above": 10.0,
+    "weight_at_or_below": 1.0
+  },
+  "test_fire_id": 1.0,
+  "best_config": {
+    "hidden_layers": 1,
+    "hidden_units": 16,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "dropout": 0.0,
+    "selected_by": "one hidden layer with 16 nodes; log loss, weight 10 above 50 ppb/h"
+  },
+  "test_metrics": {
+    "rmse": 38.243916262108705,
+    "r2": 0.6841181321594997,
+    "rmse_log": 0.41023859933646073,
+    "r2_log": 0.9088692219970593
+  }
+}
